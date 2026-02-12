@@ -1,0 +1,11 @@
+name: itsdreamcoca-day
+title: "¿Esto es real? test"
+version: 0.1.0
+description: "Experiencia interactiva sobre espacios liminales y fragmentos de memoria."
+author: "demehire"
+
+permissions:
+  redditAPI: true
+
+icon: "👁️"
+backgroundColor: "#000000"
